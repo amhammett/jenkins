@@ -1,0 +1,6 @@
+bouncycastle-api:latest
+build-notifications
+command-launcher:latest
+matrix-auth
+script-security:latest
+simple-theme-plugin
